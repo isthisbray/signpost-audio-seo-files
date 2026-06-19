@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Traditional sitemap for search crawlers
+Sitemap: https://www.signpostaudio.com/sitemap.xml
+
+# LLM / AI search engine index files
+# Following llms.txt spec from llmstxt.org
+# Primary index (concise): https://www.signpostaudio.com/llms.txt
+# Full markdown mirror: https://www.signpostaudio.com/llms-full.txt

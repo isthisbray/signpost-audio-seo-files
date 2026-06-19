@@ -1,0 +1,101 @@
+# Signpost Audio
+
+> Melbourne-based music production studio offering professional mixing, mastering, and music production coaching for electronic, pop, and underground artists. Run by Braydon Zirkler with 15+ years of experience in EDM production and audio engineering.
+
+Signpost Audio combines a working commercial mixing/mastering studio with one-on-one production education. Specialisations include Ableton Live coaching, electronic music production, vocal mixing, mastering for streaming and DJ release, and accessible programs for NDIS participants and homeschool students.
+
+## Services
+
+- [Mixing & Mastering](https://www.signpostaudio.com/services/mixing-mastering): Professional mixing and mastering for electronic, pop, and underground releases. Hybrid analog/digital workflow using Genelec monitoring, Neve summing, SSL compression, and UAD/Waves/FabFilter plugins. Per-song flat-rate pricing.
+- [Production Coaching](https://www.signpostaudio.com/services/production-coaching): One-on-one custom music production classes covering Ableton Live, Logic Pro, Pro Tools, Cubase, sound design, mixing technique, and music theory.
+- [Co-Writes](https://www.signpostaudio.com/mainsite/servicesfolder/co-writes): Collaborative songwriting and production sessions.
+- [Audio Post-Production](https://www.signpostaudio.com/mainsite/servicesfolder/audio-post-production): Podcast editing, noise reduction, volume levelling, audio cleanup for video and broadcast.
+- [Send a Project](https://www.signpostaudio.com/membership/send-projects): Upload your project for mixing, mastering, or production work.
+- [Book a Session](https://www.signpostaudio.com/book): Schedule an in-person or remote production class.
+
+## Education
+
+- [Intro to Ableton Live Course](https://www.signpostaudio.com/learn?course=intro): 8-chapter Ableton Live introduction with live one-on-one training, online video content, homework, and downloadable resources.
+- [Remix Course](https://www.signpostaudio.com/learn?course=remix): Step-by-step remix techniques and arrangement.
+- [Learn to Mashup and DJ Edits](https://www.signpostaudio.com/mainsite/learn-to-mashup-and-dj-edits): Self-paced course covering Ableton Live, sound design, music theory, mashups, and DJ editing techniques.
+- [Custom Production Classes](https://www.signpostaudio.com/learn?type=custom): One-on-one classes covering Ableton, Logic, Resolume, Pro Tools, Cubase, music theory, sound design, MIDI, Max for Live, Traktor, DJing, Rekordbox, and Serato.
+- [Membership Plans](https://www.signpostaudio.com/learn?type=membership): Recurring access to all courses, community, and resources.
+- [NDIS Music Programs](https://www.signpostaudio.com/ndis): Accessible music production programs for NDIS participants in Australia.
+- [Homeschool Music Programs](https://www.signpostaudio.com/homeschool): Music production curriculum for homeschool students.
+
+## Free Resources
+
+- [75 Plugin Recommendations & Free Bonus](https://www.signpostaudio.com/free-plugins-pack): Hand-curated list of 75 essential music production plugins covering EQs, compressors, reverbs, synths, saturation, and mastering tools. Includes both free and paid options for every budget. Bonus guide included: *Optimise Your Home Studio Time*.
+
+## Mixing & Mastering Articles
+
+Foundational technique tutorials produced from 15+ years of professional mixing experience.
+
+- [Why Are My Mixes So Quiet? 7 Loudness Techniques](https://www.signpostaudio.com/post/why-are-my-mixes-so-quiet): Step-by-step fixes for quiet mixes including gain staging, compression, saturation, parallel compression, and master limiting to streaming LUFS targets.
+- [How to Mix Vocals: Complete Guide](https://www.signpostaudio.com/post/how-to-mix-vocals-complete-guide): Full vocal mixing chain — cleanup, gain staging, subtractive EQ, two-stage compression, de-essing, tonal EQ, saturation, reverb sends, delay sends, automation.
+- [Audio Compression Explained for Beginners](https://www.signpostaudio.com/post/audio-compression-explained): Plain-English guide to threshold, ratio, attack, release, makeup gain, knee, sidechain, lookahead, and the four compressor types (VCA, FET, optical, tube).
+- [How to Master a Track in Ableton Live](https://www.signpostaudio.com/post/how-to-master-a-track-in-ableton-live): Step-by-step mastering chain using Ableton's stock plugins, with LUFS targets for Spotify, Apple Music, SoundCloud, vinyl, and DJ release.
+- [Sidechain Compression in Ableton](https://www.signpostaudio.com/post/sidechain-compression-ableton-guide): Three sidechain methods including classic kick-on-bass, ghost-kick triggers, and volume-shaper alternatives.
+- [How to Mix Kick and 808](https://www.signpostaudio.com/post/how-to-mix-kick-and-808): Modern bass music mixing including 808 tuning, EQ carving, sidechain settings, saturation for phone-speaker audibility, and mono summing.
+- [Stereo Width: 8 Tips to Make Sounds Bigger](https://www.signpostaudio.com/post/stereo-width-8-tips): Mono bass, mid/side EQ, Haas effect, unison detuning, vocal doubling, stereo wideners with mono-compatibility checks.
+- [Pro Tip: Setting Kick & Bass Right](https://www.signpostaudio.com/post/pro-tip---setting-kick-right): Fundamentals of kick and bass relationship — frequency lanes, sidechain compression, mono summing.
+- [5 EQ Tips For Beginners](https://www.signpostaudio.com/post/5-eq-tips-for-beginners): Subtractive vs additive EQ, high-passing, sweeping for problem frequencies, in-context vs solo mixing.
+
+## Equipment & Plugin Reviews
+
+Buying guides and tested recommendations across budget tiers.
+
+- [Best Studio Monitors for Home Studio in 2026](https://www.signpostaudio.com/post/best-studio-monitors-home-studio-2026): Tested picks under $500 and under $1000 — KRK Rokit 5, Yamaha HS5/HS8, Adam T7V, Kali LP-8, JBL 305P, Focal Alpha 65.
+- [Best Audio Interfaces for Ableton in 2026](https://www.signpostaudio.com/post/best-audio-interfaces-for-ableton-2026): SSL 2+, Audient iD4 MkII, Focusrite Scarlett 2i2, Universal Audio Volt 2, MOTU M2, RME Babyface Pro.
+- [Best Microphones for Vocals Under $200](https://www.signpostaudio.com/post/best-microphones-for-vocals-under-200): Dynamic and condenser picks — Shure SM58/SM7B, Audio-Technica AT2020, Rode NT1 5th Gen, Lewitt LCT 240 Pro.
+- [Best Headphones for Mixing Under $500](https://www.signpostaudio.com/post/best-headphones-for-mixing-under-500): Open-back and closed-back picks — Sennheiser HD600, Beyerdynamic DT 1990 Pro, Audeze MM-100, Sony MDR-7506.
+- [SSL 2+ vs Focusrite Scarlett 2i2 vs Audient iD4 MkII](https://www.signpostaudio.com/post/ssl2-vs-scarlett-vs-audient-id4): Direct head-to-head comparison of preamps, conversion, latency, software bundles, and verdict by use case.
+- [Best Free EQ Plugins in 2026](https://www.signpostaudio.com/post/best-free-eq-plugins-2026): TDR Nova, TDR SlickEQ, Voxengo Marvel GEQ, MeldaProduction MEqualizer, TDR Proximity EQ.
+- [Best Free Compressor Plugins in 2026](https://www.signpostaudio.com/post/best-free-compressor-plugins-2026): Klanghelm MJUC jr, TDR Kotelnikov, Klanghelm DC1A, Variety of Sound Density mkIII, Analog Obsession FETish/LALA.
+- [Best Free Reverb Plugins in 2026](https://www.signpostaudio.com/post/best-free-reverb-plugins-2026): Valhalla Supermassive, OrilRiver, Convology XT, Voxengo OldSkoolVerb, TAL-Reverb-4.
+- [Are Ableton's Stock Plugins Actually Good?](https://www.signpostaudio.com/post/are-abletons-stock-plugins-actually-good): Honest evaluation of Glue Compressor, EQ Eight, Saturator, Hybrid Reverb, Wavetable, and Operator.
+- [Top Laptops for Music Production](https://www.signpostaudio.com/post/top-laptops-for-music-production-how-to-choose-the-best-one): RAM, CPU, SSD, and Mac vs PC recommendations for music production in 2026.
+- [What Hardware is Used in Music Production?](https://www.signpostaudio.com/post/what-hardware-is-used-in-music-production): Essential music production gear — DAW, audio interface, monitoring, MIDI controller, microphone.
+- [Condenser vs Dynamic Microphone](https://www.signpostaudio.com/post/which-make-should-i-use-condenser-or-dynamic): How to choose between condenser and dynamic mics based on your room treatment.
+- [Best Beginner Audio Interfaces](https://www.signpostaudio.com/post/best-beginner-audio-interfaces-in-2023): Focusrite Scarlett, Audient iD4, Native Instruments Komplete Audio for first-time producers.
+- [Best DAWs for Music Production](https://www.signpostaudio.com/post/the-best-daws-for-music-production-in-2023): Ableton Live, Logic Pro, FL Studio, Pro Tools, Cubase comparison.
+
+## Sound Design & Synthesis
+
+- [Fundamentals of Audio Synthesis](https://www.signpostaudio.com/post/fundamentals-of-audio-synthesis): Beginner's guide to oscillators, filters, envelopes, LFOs, modulation routing, and the four synthesis types (subtractive, FM, additive, granular).
+- [Music Theory for Electronic Producers](https://www.signpostaudio.com/post/music-theory-for-electronic-producers): Practical theory for EDM, house, and techno — scales, chords, modes, rhythm, and melody-writing rules.
+- [How to Write Catchy Melodies](https://www.signpostaudio.com/post/how-to-write-catchy-melodies): 8 techniques — short motifs, rhythmic identity, contour, peak notes on accented beats, restricted note pools, contrast, leaps, stable endings.
+
+## Workflow & Education
+
+- [10 Essential Tips and Tricks for Ableton Live Beginners](https://www.signpostaudio.com/post/10-essential-tips-and-tricks-for-ableton-live-beginners): Keyboard shortcuts, browser usage, freeze/flatten, capture MIDI, audio effect racks, templates.
+- [Music Production 101: A Beginner's Guide](https://www.signpostaudio.com/post/music-production-101-a-beginners-guide-to-the-basics): Five stages of music production — songwriting, recording, editing, mixing, mastering — plus starter gear recommendations.
+- [8 Simple Ways to Start a Project in Any DAW](https://www.signpostaudio.com/post/8-simple-ways-to-start-a-project-in-any-daw): Eight reliable starting points to overcome blank-page paralysis.
+- [25 Free Ableton Live Project Templates](https://www.signpostaudio.com/post/25-free-ableton-live-project-templates): Hand-picked free templates across house, techno, pop, trap, and ambient.
+- [50 Free EDM Chord Progressions (MIDI Pack)](https://www.signpostaudio.com/post/50-free-edm-chord-progressions-midi): Chord progressions for house, trance, future bass, EDM, pop, and lo-fi with free MIDI download.
+- [5 Great Places to Find Audio Samples](https://www.signpostaudio.com/post/5-great-places-to-find-audio-samples-for-music-production): Splice, Loopmasters, Sample Magic, Cymatics, Freesound.
+- [Exploring the World of Ableton Live: 10 Famous Artists Who Use It](https://www.signpostaudio.com/post/exploring-the-world-of-ableton-live-10-famous-artists-who-use-this-powerful-software): Artists who produce primarily in Ableton Live.
+- [When is the Best Time to Ableton Live?](https://www.signpostaudio.com/post/when-is-the-best-time-to-ableton-live): Productive session timing and creative energy management.
+
+## Music Industry & Career
+
+- [Is 30 Too Old to Start Learning Music?](https://www.signpostaudio.com/post/is-30-too-old-to-start-learning-music): Reality check on age and music production career timing.
+- [Underground vs Mainstream Music](https://www.signpostaudio.com/post/underground-vs-mainstream-music): How the two scenes differ in production, distribution, and culture.
+- [Top 5 Most Sampled Songs](https://www.signpostaudio.com/post/what-are-the-top-5-most-sampled-songs): Iconic samples including "Amen, Brother" and other foundational breaks.
+- [Breaking Down the Challenges of Music Production](https://www.signpostaudio.com/post/breaking-down-the-challenges-of-music-production-and-how-to-overcome-them): Common obstacles and how to overcome them.
+
+## Shop
+
+- [2023 Ableton Production Template](https://www.signpostaudio.com/product/2023-ableton-production-templete): Mix-ready Ableton Live template using only stock plugins.
+- [Podcast Production](https://www.signpostaudio.com/product/podcast-production): Professional podcast mixing and mastering service.
+- [Browse Templates](https://www.signpostaudio.com/shop?category=template): Ableton, Logic, and FL Studio production templates.
+- [Browse Presets](https://www.signpostaudio.com/shop?category=presets): Serum, Vital, Phase Plant, and synth presets.
+- [Browse Tools](https://www.signpostaudio.com/shop?category=tools): Production tools, kits, and resources.
+- [Browse Free Resources](https://www.signpostaudio.com/shop?category=free): Free templates, presets, and sample packs.
+
+## Optional
+
+- [About Signpost Audio](https://www.signpostaudio.com/about): Background and team.
+- [Contact](https://www.signpostaudio.com/contact): Get in touch.
+- [Privacy Policy](https://www.signpostaudio.com/privacy)
+- [Terms](https://www.signpostaudio.com/terms)

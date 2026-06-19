@@ -1,0 +1,652 @@
+# Signpost Audio — Full Markdown Mirror
+
+> AI-readable markdown mirror of Signpost Audio's key content. Designed for LLM crawlers (ChatGPT, Perplexity, Claude, Google AI Overviews, Gemini) to retrieve full content without parsing HTML.
+
+**Site:** https://www.signpostaudio.com
+**Location:** Melbourne, Australia
+**Established:** 2010 (15+ years of professional music production experience)
+**Founder:** Braydon Zirkler
+**Focus:** Electronic, pop, and underground music — mixing, mastering, and 1-on-1 production coaching
+**Last Updated:** 2026-05-08
+
+---
+
+## About Signpost Audio
+
+Signpost Audio is a Melbourne-based music production studio combining professional mixing/mastering services with one-on-one production education. We work with electronic, pop, and underground artists at every level — from first-time producers learning Ableton Live to working independent artists releasing on Spotify, Beatport, and Bandcamp.
+
+Founder Braydon Zirkler has been producing electronic dance music for 15+ years, with deep specialisation in Ableton Live, vocal mixing, mastering for streaming and DJ release, and sound design.
+
+### What we do
+
+- **Mixing and mastering** for electronic, pop, and underground releases (hybrid analog/digital workflow)
+- **One-on-one production coaching** covering Ableton, Logic, Pro Tools, Cubase, sound design, mixing technique, and music theory
+- **Online courses** including an Intro to Ableton Live course and Remix Course
+- **NDIS and homeschool programs** providing accessible music production education for Australian participants and students
+- **Free educational content** including 75+ blog articles on mixing, mastering, sound design, and production fundamentals
+
+---
+
+## Mixing & Mastering Services
+
+**URL:** https://www.signpostaudio.com/services/mixing-mastering
+
+We provide professional mixing and mastering services for electronic music, pop, singer-songwriter, and underground releases.
+
+### Our process
+
+1. **Project intake** — you upload your stems (or full mix for mastering only) along with reference tracks and notes on style preferences
+2. **Mixing stage** — multi-track mixing using a hybrid analog/digital workflow
+3. **Mastering stage** — final loudness, tonal balance, stereo image, and platform-specific deliverables
+4. **Revision rounds** — included revisions to nail the brief
+
+### Hardware and software
+
+- **Analog:** Genelec monitoring, Yamaha NS10s reference, Neve summing, SSL compression units
+- **Digital:** UAD plugins, Waves Mercury bundle, Slate Digital, Melodyne, FabFilter Pro-Q 3 and Pro-L 2, Soundtoys
+
+### Deliverables
+
+- **Streaming master** at -14 LUFS integrated, -1.0 dBTP ceiling (Spotify, Apple Music, YouTube)
+- **DJ/club master** at -8 to -9 LUFS for Beatport and club playback
+- **Vinyl pre-master** with aggressive mono bass below 150 Hz when applicable
+- **Clean instrumental and vocal-up versions** on request
+
+### Pricing
+
+Per-song flat rate. Contact for current rates.
+
+---
+
+## Production Coaching
+
+**URL:** https://www.signpostaudio.com/learn?type=custom
+
+One-on-one production coaching sessions covering every aspect of modern music production.
+
+### Topics covered
+
+- **Ableton Live** (most-requested) — sessions, arrangement, MIDI, audio effects, racks, Max for Live
+- **Logic Pro** — songwriting workflow, Drummer, Alchemy, mixing chain
+- **FL Studio** — beat-making, mixer routing, automation
+- **Pro Tools** — session management, editing, mixing standards
+- **Cubase** — composition and orchestral workflow
+- **Music theory** — scales, chords, modes, rhythm, melody writing
+- **Sound design** — synthesis, layering, sample manipulation
+- **Mixing technique** — gain staging, EQ, compression, dynamics, automation
+- **Mastering** — analog and in-the-box workflows for various release formats
+- **DJing** — Traktor, Rekordbox, Serato, mashup and edit techniques
+
+Sessions are remote or in-person at our Melbourne studio.
+
+---
+
+## Free Resource: 75 Plugin Recommendations & Free Bonus
+
+**URL:** https://www.signpostaudio.com/free-plugins-pack
+
+Our hand-curated list of 75 essential music production plugin recommendations. The plugins we actually use in commercial mixing and mastering sessions, curated from 15+ years of professional experience.
+
+### What's included
+
+- **75 hand-picked plugin recommendations** spanning EQs, compressors, reverbs, synths, saturation, mastering tools, and creative effects
+- **Free & paid options for every budget** — about half the picks are fully free
+- **Notes on each plugin** — what we use it for, when to upgrade from free to paid, and how it fits into a working session
+- **Bonus guide:** *Optimise Your Home Studio Time* (PDF) — productivity techniques for home producers
+
+### Plugin categories covered
+
+- **EQ** — surgical, vintage character, dynamic, mid/side, linear-phase
+- **Compression** — FET (1176-style), optical (LA-2A), VCA (SSL G), tube/vari-mu
+- **Reverb** — algorithmic plates, halls, rooms, convolution
+- **Synthesis** — wavetable, FM, subtractive, granular, additive
+- **Saturation** — tape, tube, transformer, console emulations
+- **Mastering** — multiband, limiting, stereo imaging, loudness metering
+- **Creative effects** — delays, modulation, distortion, glitch, lo-fi
+- **Utilities** — analyzers, oversampling, dithering, monitoring
+
+### Sign-up cost
+
+Free. Name and email only. No spam. Unsubscribe anytime.
+
+---
+
+## Why Are My Mixes So Quiet? 7 Pro Loudness Techniques
+
+**URL:** https://www.signpostaudio.com/post/why-are-my-mixes-so-quiet
+
+> **Quick answer:** Mixes sound quiet because individual tracks clash for the same frequency range, peaks eat all available headroom, and the gain-staging, compression, saturation, and limiting steps that bring up perceived loudness are missing or done in the wrong order. The fix is seven specific moves stacked in sequence.
+
+### The 7 techniques
+
+1. **Fix gain staging first** — aim for individual tracks peaking at -12 to -6 dBFS, master bus at -6 dBFS pre-mastering. Modern plugins (analog emulations especially) sound dramatically different at different input levels.
+
+2. **EQ carving** — every element needs its own frequency lane. High-pass non-bass elements at 80–120 Hz. Cut, don't boost, when carving. Mud below 250 Hz eats perceived loudness.
+
+3. **Compress for control, not loudness** — slow attack (10–30 ms), medium release (60–100 ms), 2–4 dB gain reduction. Compress in stages (channel → bus → master) rather than one heavy compressor.
+
+4. **Add saturation** — adds harmonic content that makes tracks *feel* louder without raising peaks. Subtle tape, tube, or transformer saturation on drum bus and mix bus.
+
+5. **Parallel compression** for vocals and drums — heavy compression on a return (8:1 ratio, fast attack, 8–15 dB gain reduction) blended underneath the dry signal.
+
+6. **Master limiter to LUFS targets** — Spotify/Apple Music/YouTube: -14 LUFS integrated. SoundCloud: -8 to -10 LUFS. Club: -7 to -9 LUFS. True-peak ceiling -1.0 dBTP.
+
+7. **Reference, reference, reference** — A/B against commercial tracks throughout the mix. Use Youlean Loudness Meter or Metric AB for gain-matched comparison.
+
+### Key LUFS targets in 2026
+
+| Platform | Target Integrated LUFS |
+|---|---|
+| Spotify, Apple Music, YouTube | -14 LUFS |
+| Tidal | -14 LUFS |
+| SoundCloud | -8 to -10 LUFS |
+| Beatport/club/DJ | -7 to -9 LUFS |
+| Vinyl release | -10 to -12 LUFS |
+
+---
+
+## How to Mix Vocals: The Complete Guide
+
+**URL:** https://www.signpostaudio.com/post/how-to-mix-vocals-complete-guide
+
+> **Quick answer:** A pro vocal mix is built in this order: clean the recording → gain stage → subtractive EQ → compression → de-essing → tonal EQ → saturation → reverb/delay sends → automation. Get the order wrong and every later step compensates for the previous one.
+
+### The 10-step vocal mixing chain
+
+1. **Start with a clean recording** — noise reduction (iZotope RX), silence stripping, tuning (Melodyne or Auto-Tune), take comping
+2. **Gain stage to -12 to -6 dBFS** — peak around -6 dBFS for loudest sections
+3. **Subtractive EQ** — high-pass 80–100 Hz, cut at 200–350 Hz (mud), cut at 800 Hz–1 kHz (boxy), cut at 4–6 kHz (harshness)
+4. **Compression Stage 1 — Fast (FET/1176)** — 4:1 ratio, 1–3 ms attack, 40–80 ms release, 3–6 dB GR
+5. **Compression Stage 2 — Slow (Optical/LA-2A)** — 2:1 to 3:1, slow attack 10–30 ms, auto release, 2–4 dB GR
+6. **De-ess (separately, after compression)** — dynamic EQ at 5–9 kHz, 2–4 dB reduction
+7. **Tonal EQ** — sweeten with +1–3 dB at 100–150 Hz (chest), +1–2 dB at 3–4 kHz (presence), +1–2 dB shelf at 10–12 kHz (air)
+8. **Saturation** — tape or tube, 1–3% drive, before reverb sends
+9. **Reverb on a send** — HPF 200–300 Hz, LPF 7–9 kHz, plate/chamber, 1.5–2.5s decay, 30–60 ms pre-delay
+10. **Automation** — volume rides per phrase, reverb/delay sends per section, EQ tilt per verse/chorus
+
+### Two-stage compression rationale
+
+Single heavy compression sounds obvious. Two stages of gentle compression are invisible — fast stage handles peaks, slow stage glues body. Maximum 6 dB combined gain reduction.
+
+---
+
+## Audio Compression Explained for Beginners
+
+**URL:** https://www.signpostaudio.com/post/audio-compression-explained
+
+> **Quick answer:** A compressor automatically turns down audio when it crosses a volume threshold, then turns the whole signal back up to compensate. Result: loud parts and quiet parts end up closer in level, the track sounds more even, and *feels* louder. Five controls: threshold, ratio, attack, release, makeup gain.
+
+### The 5 controls explained
+
+- **Threshold** — the volume level at which compression starts. Adjust until gain reduction meter shows 2–6 dB on loudest moments.
+- **Ratio** — how aggressively the compressor pulls down audio above threshold. 2:1 gentle, 4:1 standard, 8:1+ aggressive, ∞:1 limiting.
+- **Attack** — how quickly the compressor reacts (1–100 ms). Counterintuitively, *slower* attack preserves transient punch. Fast attack squashes punch.
+- **Release** — how quickly the compressor stops working after signal drops below threshold (10 ms to 1+ second). Match to musical tempo.
+- **Makeup gain** — boost the whole signal to compensate for compression pull-down. Always level-match when A/B testing.
+
+### The 4 compressor types
+
+| Type | Sound | Use on |
+|---|---|---|
+| **VCA** (SSL bus, dbx 160) | Clean, fast, transparent | Drum bus, mix bus, mastering |
+| **FET** (1176, Klanghelm MJUC) | Aggressive, punchy, characterful | Vocals (fast stage), drums, parallel compression |
+| **Optical** (LA-2A, LA-3A) | Smooth, slow, musical | Vocals (slow stage), bass guitar, glue |
+| **Tube/Vari-Mu** (Manley, Fairchild) | Warm, slow, harmonic | Mix bus, mastering, character |
+
+### Common settings
+
+- **Lead vocals (single):** FET/VCA, 4:1, 5–10 ms attack, 80–120 ms release, 3–5 dB GR
+- **Snare:** FET, 4:1, 20–30 ms attack (preserve crack), 80–150 ms release, 3–6 dB GR
+- **Bass:** Optical, 4:1, 30 ms attack, 100 ms release, 4–7 dB GR
+- **Drum bus glue:** VCA, 2:1 to 4:1, 10–30 ms attack, auto release, 2–4 dB GR
+- **Mix bus glue:** VCA/tube, 2:1, 30 ms attack, auto release, 1–2 dB GR
+
+---
+
+## How to Master a Track in Ableton Live
+
+**URL:** https://www.signpostaudio.com/post/how-to-master-a-track-in-ableton-live
+
+> **Quick answer:** Bounce final mix to new Ableton project at -6 dBFS peak. Build master chain: EQ Eight → Multiband Dynamics → Glue Compressor → Saturator → EQ Eight (M/S) → Utility → Limiter. Target -14 LUFS integrated with -1.0 dBTP ceiling for streaming.
+
+### The 7-stage master chain (Ableton stock plugins)
+
+1. **EQ Eight (broad tonal corrections)** — HPF 25–35 Hz, optional cuts at 200–400 Hz (mud), shelves at 10–14 kHz. Max ±1.5 dB moves.
+2. **Multiband Dynamics (frequency-specific control)** — gentle compression on problem bands, 1–2 dB GR per band.
+3. **Glue Compressor (the SSL bus glue)** — 2:1 ratio, 10 ms attack, auto release, 1–2 dB GR, soft clip on.
+4. **Saturator (harmonic richness)** — Analog Clip or Soft Sine mode, +0.5 to +1.5 dB drive.
+5. **EQ Eight in M/S mode (stereo-aware EQ)** — HPF side channel at 120 Hz (forces low end mono), +0.5 dB shelf at 10 kHz on side (air widening).
+6. **Utility (controlled stereo widening)** — width 105–115% max, Bass Mono toggled at 120 Hz.
+7. **Limiter (the ceiling)** — ceiling -1.0 dBTP, lookahead 3 ms, auto release, push gain until LUFS target.
+
+### Streaming LUFS targets (2026)
+
+| Platform | Integrated LUFS Target |
+|---|---|
+| Spotify, Apple Music, YouTube | -14 LUFS |
+| Tidal, Amazon Music | -14 LUFS |
+| SoundCloud | -8 to -10 LUFS |
+| Beatport/club/DJ | -7 to -9 LUFS |
+| CD release | -10 to -12 LUFS |
+
+---
+
+## Sidechain Compression in Ableton
+
+**URL:** https://www.signpostaudio.com/post/sidechain-compression-ableton-guide
+
+> **Quick answer:** In Ableton, route kick into the sidechain input of a Compressor on your bass channel. Set ratio 4:1, threshold for 6–10 dB GR on each kick, attack 1 ms, release 100–200 ms. The bass ducks each kick hit for clean pumping low-end.
+
+### Three sidechain methods
+
+#### Method 1 — Classic kick-on-bass (Ableton Compressor)
+
+1. Drop Compressor (not Glue Compressor) on bass channel
+2. Open sidechain section (triangle bottom-left)
+3. Sidechain ON, Audio From: kick channel, Pre FX
+4. Ratio 4:1, threshold for 6–10 dB GR, attack 1 ms, release 100–200 ms, soft knee
+
+#### Method 2 — Sidechain EQ filtering
+
+Enable the SC EQ in Ableton's Compressor sidechain to trigger only on specific frequencies. Filter to 3–5 kHz to trigger on kick click rather than kick body.
+
+#### Method 3 — Ghost kick
+
+Create muted MIDI track with kick on every grid beat. Set output to Sends Only. Compressor on bass channel sidechains to this ghost kick. Result: perfect grid-locked pumping that doesn't depend on whether actual kick is playing.
+
+### Genre cheat sheet
+
+| Genre | Method | GR Depth | Release |
+|---|---|---|---|
+| Deep house | Compressor sidechain | 4–6 dB | 250 ms |
+| Tech house | Ghost kick | 8–10 dB | 150 ms |
+| Trance | Ghost kick + Kickstart | 10–12 dB | 200 ms |
+| Hip-hop/trap | Subtle sidechain | 3–5 dB | 200 ms |
+| Modern pop | Subtle (mostly inaudible) | 2–4 dB | 200 ms |
+
+---
+
+## How to Mix Kick and 808
+
+**URL:** https://www.signpostaudio.com/post/how-to-mix-kick-and-808
+
+> **Quick answer:** Tune the 808 to song key → carve EQ (kick owns 60–100 Hz, 808 owns 30–80 Hz) → sidechain 808 to kick (4–6 dB ducking) → saturate 808 for phone-speaker audibility → keep everything mono below 100 Hz. Skip any step and low end collapses.
+
+### The 7-step modern bass music chain
+
+1. **Tune the 808 to song key** — most 808 samples pitched to C. Transpose to match song root.
+2. **EQ carving** — kick: HPF 35 Hz, body 60–100 Hz, click 2–5 kHz boost. 808: sub 30–80 Hz, cut 80–120 Hz to make space, harmonic content 200 Hz–3 kHz from saturation.
+3. **Sidechain 808 to kick** — Compressor, 4:1, 1 ms attack, 80–100 ms release, 4–6 dB GR on each kick.
+4. **Saturate the 808** — generates harmonics at 2× and 3× fundamental, audible on phone speakers. Saturator Analog Clip mode, +3–6 dB drive.
+5. **Keep low end mono** — Utility plugin, Bass Mono enabled at 100 Hz.
+6. **Bus compression** — Glue Compressor on Drum Bus, 2:1, 10–30 ms attack, 1–2 dB GR.
+7. **Reference** — A/B against commercial tracks in your genre on monitors, headphones, and phone speakers.
+
+---
+
+## Stereo Width: 8 Tips to Make Sounds Bigger
+
+**URL:** https://www.signpostaudio.com/post/stereo-width-8-tips
+
+> **Quick answer:** Wide mixes use 8 techniques: smart panning, mid/side EQ, Haas effect, unison detuning, vocal doubling, stereo wideners, ping-pong delays, and bass mono below 120 Hz. The common mistake: widening everything instead of strategic elements.
+
+### The 8 techniques
+
+1. **Smart panning** — kick, bass, lead vocal, snare centred. Everything else spread purposefully.
+2. **Mid/side EQ** — HPF side channel at 120 Hz (mono bass), boost side high-shelf at 10 kHz (air widening).
+3. **Haas effect** — 15–25 ms delay on one side of a stereo signal creates perceived width without phase issues.
+4. **Unison detuning on synths** — 5–8 voices at 15–25 cents detune, stereo width 80–100%. Classic supersaw.
+5. **Vocal doubling** — record twice, pan L/R at 70% each, blend at -10 to -6 dB under centre vocal.
+6. **Stereo wideners** (use sparingly) — Waves S1, Brainworx bx_stereomaker, Polyverse Wider. Check mono compatibility.
+7. **Ping-pong delays** — synced delay bouncing L/R, filtered (HPF 300 Hz, LPF 6 kHz).
+8. **Bass mono below 100–120 Hz** — Utility plugin with Bass Mono enabled. Essential for clubs, vinyl, and mono playback.
+
+### Mono compatibility check
+
+Always sum to mono and verify: vocals still audible, kick/bass intact, synths/pads not thin or hollow, reverb tails partially preserved. If width vanishes in mono, the technique isn't working.
+
+---
+
+## Fundamentals of Audio Synthesis
+
+**URL:** https://www.signpostaudio.com/post/fundamentals-of-audio-synthesis
+
+> **Quick answer:** Every synth is built from 5 building blocks: oscillators (generate raw sound), filters (shape tone), envelopes (shape volume over time), LFOs (add movement), and modulation routing (connect everything).
+
+### The 4 synthesis types
+
+- **Subtractive** — harmonically rich waveform (saw/square) filtered. Most analog synths and soft-synths. Examples: Moog, Operator, Massive, Sylenth1.
+- **FM** — one oscillator modulates another's frequency. Bell-like, metallic. Examples: DX7, FM8, Operator FM mode.
+- **Additive** — stack sine waves at different frequencies/volumes. Capable of any sound. Examples: Razor, Harmor.
+- **Granular** — chop sample into 1–100 ms grains, replay in different orders. Atmospheric textures. Examples: Output Portal, Granulator, Phase Plant granular.
+
+### The 5 building blocks
+
+1. **Oscillators** — sine, triangle, square, saw, noise. Most synths blend 2–4 oscillators.
+2. **Filters** — low-pass (most common), high-pass, band-pass, notch. Controls: cutoff + resonance.
+3. **Envelopes (ADSR)** — Attack, Decay, Sustain, Release. Modulate volume, filter cutoff, pitch.
+4. **LFOs** — low-frequency oscillator (under 20 Hz) modulating other parameters. Common: LFO → filter cutoff = wobble, LFO → pitch = vibrato.
+5. **Modulation routing** — what modulates what. Velocity, mod wheel, key tracking, aftertouch, random.
+
+### Best free synths for beginners (2026)
+
+- **Vital** — modern wavetable, rivals Serum at zero cost
+- **Surge XT** — open-source, deep
+- **Ableton Operator** (FM + subtractive) — stock with Ableton
+
+---
+
+## Music Theory for Electronic Producers
+
+**URL:** https://www.signpostaudio.com/post/music-theory-for-electronic-producers
+
+> **Quick answer:** You need: major/minor scales, basic triads (I, IV, V, vi, ii, iii, vii°), the EDM-dominant progressions (vi–IV–I–V, I–V–vi–IV, i–VI–III–VII), modes (Dorian, Phrygian), and 4/4 rhythm subdivisions. That's the theory that's actually useful for writing electronic music.
+
+### The most-used EDM chord progressions
+
+1. **vi–IV–I–V** (Am–F–C–G in C major) — used in Avicii "Wake Me Up", Calvin Harris "Summer", Major Lazer "Lean On"
+2. **I–V–vi–IV** (C–G–Am–F) — countless pop and EDM hits
+3. **i–VI–III–VII** (Am–F–C–G in A minor) — anthem trance, melodic techno, melodic dubstep
+
+### Modes to learn
+
+- **Dorian** (W-H-W-W-W-H-W) — minor with raised 6th. Deep house, jazzy techno, melodic techno.
+- **Phrygian** (H-W-W-W-H-W-W) — minor with lowered 2nd. Psytrance, hard techno, Middle Eastern crossover.
+
+### Modern chord extensions
+
+Replace plain triads with: maj7, m7, maj9, add9, sus2, sus4. This is the move that takes a generic progression and makes it sound like Flume, Illenium, or Said The Sky.
+
+---
+
+## How to Write Catchy Melodies
+
+**URL:** https://www.signpostaudio.com/post/how-to-write-catchy-melodies
+
+> **Quick answer:** 8 techniques: short repeating motifs, strong rhythmic identity, contour shape (arch/wave/ascending/descending), peak notes on accented beats, restricted note pool, contrast between sections, leaps after step-wise motion, ending on stable scale tones.
+
+### The 8 techniques
+
+1. **Short repeating motifs** — 1–2 bar phrase repeated 2–4 times before variation
+2. **Strong rhythmic identity** — tap rhythm on a desk; if memorable as rhythm alone, melody will stick
+3. **Contour shape** — arch, wave, ascending, or descending shape
+4. **Peak notes on accented beats** — highest note on beat 1 or 3 lands 10× harder than on a weak subdivision
+5. **Restricted note pool** — use only 3–5 notes for entire hooks. "Seven Nation Army" = 5 notes total.
+6. **Contrast between sections** — chorus catchy *in contrast to* verse. Verse low/dense, chorus high/sparse.
+7. **Leaps after step-wise motion** — mostly step-wise (C-D-E-F) with one strategic 5th/6th leap for emotional impact
+8. **End on stable scale tones** — notes 1, 3, or 5 of underlying chord feel resolved; 2, 4, 6, 7 create tension
+
+---
+
+## 5 EQ Tips For Beginners
+
+**URL:** https://www.signpostaudio.com/post/5-eq-tips-for-beginners
+
+> **Quick answer:** (1) Cut more than you boost, (2) high-pass everything that isn't bass at 80–120 Hz, (3) sweep with a narrow boost to find problem frequencies, (4) listen in context with full mix, never solo'd, (5) reference commercial tracks during EQ moves.
+
+---
+
+## 10 Essential Tips and Tricks for Ableton Live Beginners
+
+**URL:** https://www.signpostaudio.com/post/10-essential-tips-and-tricks-for-ableton-live-beginners
+
+> **Quick answer:** (1) Learn keyboard shortcuts, (2) use Group tracks for organisation, (3) freeze and flatten CPU-heavy tracks, (4) use Capture MIDI, (5) Hot Swap samples in Drum Rack, (6) use Macros, (7) save Templates, (8) use Audio Effect Racks, (9) leverage stock plugins (genuinely good), (10) use Session + Arrangement views for different stages.
+
+---
+
+## Are Ableton's Stock Plugins Actually Good?
+
+**URL:** https://www.signpostaudio.com/post/are-abletons-stock-plugins-actually-good
+
+> **Quick answer:** Yes. Glue Compressor (faithful SSL G-Series emulation), EQ Eight, Saturator, Hybrid Reverb, Wavetable, and Operator are all competitive with paid plugins. Many commercial releases are mixed entirely with Ableton stock plugins.
+
+### Best stock plugins
+
+- **Glue Compressor** — industry-standard SSL bus compressor emulation
+- **EQ Eight** — clean parametric with M/S mode
+- **Saturator** — multi-mode harmonic saturation
+- **Hybrid Reverb** — combines algorithmic + convolution
+- **Wavetable** — modern wavetable synth
+- **Operator** — FM synth (20+ years and still relevant)
+
+---
+
+## Best Free EQ Plugins in 2026
+
+**URL:** https://www.signpostaudio.com/post/best-free-eq-plugins-2026
+
+> **Quick answer:** Best free EQs in 2026 — **TDR Nova** (dynamic EQ, near-pro), **TDR SlickEQ** (vintage character), **Voxengo Marvel GEQ** (16-band linear-phase), **MEqualizer by MeldaProduction** (M/S support), **Tokyo Dawn Proximity EQ** (analog-modelled). All commercial-quality, no watermarks, no time limits.
+
+---
+
+## Best Free Compressor Plugins in 2026
+
+**URL:** https://www.signpostaudio.com/post/best-free-compressor-plugins-2026
+
+> **Quick answer:** Best free compressors in 2026 — **Klanghelm MJUC jr** (vintage tube), **TDR Kotelnikov** (mastering-grade transparent), **Klanghelm DC1A** (one-knob workhorse), **Variety of Sound Density mkIII** (multi-character bus comp), **Analog Obsession FETish/LALA** (FET and optical emulations).
+
+---
+
+## Best Free Reverb Plugins in 2026
+
+**URL:** https://www.signpostaudio.com/post/best-free-reverb-plugins-2026
+
+> **Quick answer:** Best free reverbs in 2026 — **Valhalla Supermassive** (lush long reverbs, used on commercial releases), **OrilRiver** (room/hall/plate), **Convology XT free** (convolution with 70+ impulses), **Voxengo OldSkoolVerb** (algorithmic plate), **TAL-Reverb-4** (vintage character).
+
+---
+
+## Best Studio Monitors for Home Studio in 2026
+
+**URL:** https://www.signpostaudio.com/post/best-studio-monitors-home-studio-2026
+
+> **Quick answer:** Under $500 — **KRK Rokit 5 G5** or **Yamaha HS5**. Under $1000 — **Yamaha HS8**, **Adam Audio T7V**, or **Kali Audio LP-8 v2**. Match driver size to room size: rooms under 12 m² use 5-inch; rooms 12+ m² use 7- or 8-inch.
+
+### Top picks under $500 (pair)
+
+- **Yamaha HS5** ($399) — reference standard, brutally honest
+- **KRK Rokit 5 G5** ($299) — onboard DSP for room tuning
+- **PreSonus Eris E5** (~$200) — tightest budget
+- **JBL 305P MkII** ($299) — wide sweet spot
+- **M-Audio BX5 D3** (~$300) — solid budget workhorse
+
+### Top picks under $1000 (pair)
+
+- **Yamaha HS8** (~$700) — trusted upgrade
+- **Adam Audio T7V** (~$500) — detailed top end with ribbon tweeter
+- **Kali Audio LP-8 v2** (~$600) — boundary EQ for untreated rooms
+- **Focal Alpha 65 Evo** (~$700) — musical, less fatiguing
+- **Genelec 8010A** (~$700) — small but Genelec quality
+
+---
+
+## Best Audio Interfaces for Ableton in 2026
+
+**URL:** https://www.signpostaudio.com/post/best-audio-interfaces-for-ableton-2026
+
+> **Quick answer:** **Audient iD4 MkII** (~$200, best entry value), **SSL 2+** (~$280, best for vocals + workflow), **UA Volt 2** (~$210, best character with built-in compression), **MOTU M2** (~$220, best meters), **Audient iD24/RME Babyface Pro FS** (~$500–$800, best higher-end).
+
+---
+
+## Best Microphones for Vocals Under $200
+
+**URL:** https://www.signpostaudio.com/post/best-microphones-for-vocals-under-200
+
+> **Quick answer:** **Shure SM58** (~$100, dynamic, untreated room), **Audio-Technica AT2020** (~$100, condenser, treated rooms), **Rode NT1 5th Gen** (~$170, condenser, modern detail), **Behringer XM8500** (~$25, dynamic, budget pick), **Lewitt LCT 240 Pro** (~$170, condenser). Dynamic for untreated rooms; condenser for treated rooms.
+
+---
+
+## Best Headphones for Mixing Under $500
+
+**URL:** https://www.signpostaudio.com/post/best-headphones-for-mixing-under-500
+
+> **Quick answer:** **Sennheiser HD600** (~$300, open-back, reference), **Beyerdynamic DT 1990 Pro** (~$500, open-back, detailed), **Audeze MM-100** (~$400, planar magnetic open-back), **Sony MDR-7506** (~$100, closed-back, tracking), **Audio-Technica ATH-M50x** (~$170, closed-back, all-rounder). Open-back for mixing, closed-back for tracking.
+
+---
+
+## SSL 2+ vs Focusrite Scarlett 2i2 vs Audient iD4 MkII
+
+**URL:** https://www.signpostaudio.com/post/ssl2-vs-scarlett-vs-audient-id4
+
+> **Quick answer:** **Audient iD4 MkII** for cleanest preamp at lowest price. **SSL 2+** for vocals + 4K analog mode + dual headphones. **Focusrite Scarlett 2i2** for largest ecosystem and tutorial coverage. All under $300, all have stable Ableton drivers and sub-5 ms latency.
+
+### Quick comparison
+
+| Spec | SSL 2+ | Scarlett 2i2 | Audient iD4 MkII |
+|---|---|---|---|
+| Price | ~$280 | ~$200 | ~$200 |
+| Mic preamps | 2 | 2 | 1 |
+| Headphone outs | 2 (independent) | 1 | 1 |
+| Hardware character | 4K SSL harmonic | Air mode | Clean/transparent |
+| Latency (64 buf) | 3.5 ms | 3.5 ms | 3.0 ms |
+| MIDI I/O | Yes (DIN) | No | No |
+| Build | Metal+plastic | Plastic+metal | Full metal |
+
+---
+
+## 25 Free Ableton Live Project Templates
+
+**URL:** https://www.signpostaudio.com/post/25-free-ableton-live-project-templates
+
+> **Quick answer:** Hand-picked free Ableton templates across 5 categories — house & tech house, techno & progressive, pop/trap/hip-hop, ambient/cinematic/experimental, and mixing/mastering reference. Trusted sources: Splice, ADSR Sounds, Loopmasters, SampleRadar, Producer Sphere, Output, Native Instruments.
+
+---
+
+## 50 Free EDM Chord Progressions (MIDI Pack)
+
+**URL:** https://www.signpostaudio.com/post/50-free-edm-chord-progressions-midi
+
+> **Quick answer:** 50 chord progressions across house, trance, future bass, dubstep, pop EDM, and lo-fi — written in roman numerals (transposable) and C major/A minor. Most modern EDM lives in a small set of progressions: vi–IV–I–V, i–VI–III–VII, iv–i–v.
+
+---
+
+## Pro Tip: Setting Kick & Bass Right
+
+**URL:** https://www.signpostaudio.com/post/pro-tip---setting-kick-right
+
+> **Quick answer:** Kick and bass occupy separate frequency lanes — kick owns 60–100 Hz (body) and 2–5 kHz (click); bass/808 owns 30–80 Hz (sub) and 200–500 Hz (harmonics). Sidechain bass to kick (4–6 dB ducking, 1 ms attack, 80–100 ms release). Mono below 100 Hz. Saturate bass for phone-speaker audibility.
+
+---
+
+## 8 Simple Ways to Start a Project in Any DAW
+
+**URL:** https://www.signpostaudio.com/post/8-simple-ways-to-start-a-project-in-any-daw
+
+> **Quick answer:** 8 reliable starting points: (1) chord progression, (2) drum loop, (3) sample flip, (4) vocal hook, (5) bassline, (6) sound design experiment, (7) reference track match, (8) mood/tempo target. The right starting point varies by day — switch methods when stuck.
+
+---
+
+## Music Production 101: A Beginner's Guide
+
+**URL:** https://www.signpostaudio.com/post/music-production-101-a-beginners-guide-to-the-basics
+
+> **Quick answer:** Music production = creating recorded music using DAW + audio interface + monitoring + (optional) instruments and microphones. Five stages: songwriting → recording → editing → mixing → mastering. Starter setup: laptop + Ableton Live Lite + Audient iD4 MkII + Sony MDR-7506 = $400 total.
+
+---
+
+## Top Laptops for Music Production
+
+**URL:** https://www.signpostaudio.com/post/top-laptops-for-music-production-how-to-choose-the-best-one
+
+> **Quick answer:** **Apple MacBook Pro M4** for serious work, **Apple MacBook Air M3** for budget Mac, **Dell XPS 15** for Windows. Specs: 32 GB RAM minimum, 1 TB NVMe SSD, fanless or quiet cooling. Mac wins for most music production in 2026; Windows wins on price-per-performance for desktops.
+
+---
+
+## What Hardware is Used in Music Production?
+
+**URL:** https://www.signpostaudio.com/post/what-hardware-is-used-in-music-production
+
+> **Quick answer:** Five categories: computer (16+ GB RAM), audio interface ($200–$300), monitoring (monitors or headphones, $300–$500), MIDI controller ($100–$300), microphone ($100–$200). Total starter setup: $700–$1500.
+
+---
+
+## Condenser vs Dynamic Microphone
+
+**URL:** https://www.signpostaudio.com/post/which-make-should-i-use-condenser-or-dynamic
+
+> **Quick answer:** Dynamic mics (Shure SM58, SM7B) for untreated rooms, loud singers, podcasts — reject room sound and noise. Condenser mics (AT2020, Rode NT1) for treated rooms, quieter sources, detailed capture — sensitive, capture detail and everything else in the room.
+
+---
+
+## Best DAWs for Music Production in 2026
+
+**URL:** https://www.signpostaudio.com/post/the-best-daws-for-music-production-in-2023
+
+> **Quick answer:** Best DAWs in 2026 — **Ableton Live 12** (electronic, performance), **Logic Pro 11** (Mac, songwriting, all-rounder), **FL Studio 21** (beat-making, hip-hop), **Pro Tools** (mixing engineers), **Bitwig Studio 5** (modular, sound designers). All professional-grade.
+
+---
+
+## Best Beginner Audio Interfaces
+
+**URL:** https://www.signpostaudio.com/post/best-beginner-audio-interfaces-in-2023
+
+> **Quick answer:** Best beginner audio interfaces (refresh of 2023 → 2026) — **Audient iD4 MkII** (~$200), **Focusrite Scarlett 2i2 4th Gen** (~$200), **SSL 2+** (~$280), **UA Volt 2** (~$210), **MOTU M2** (~$220).
+
+---
+
+## When is the Best Time to Ableton Live?
+
+**URL:** https://www.signpostaudio.com/post/when-is-the-best-time-to-ableton-live
+
+> **Quick answer:** Most producers' creative peak is mornings (8–11 am) or late evenings (9 pm onwards). Mid-afternoon is best for mixing/admin (not creative writing). Match the *type* of work to your energy state, not the time of day arbitrarily.
+
+---
+
+## Is 30 Too Old to Start Learning Music?
+
+**URL:** https://www.signpostaudio.com/post/is-30-too-old-to-start-learning-music
+
+> **Quick answer:** No. Many successful producers started after 30. Music production has a different skill stack than traditional musicianship — listening, mixing, programming, arrangement matter more than instrumental performance. Time available + consistent practice beats early-starting talent.
+
+---
+
+## Underground vs Mainstream Music
+
+**URL:** https://www.signpostaudio.com/post/underground-vs-mainstream-music
+
+> **Quick answer:** Underground prioritises artistic experimentation, niche cultural identity, small-label distribution. Mainstream prioritises broad accessibility, commercial viability, major-label distribution. Both produce great music — different audiences, different strategies. Crossover from underground to mainstream is common (Skrillex, Disclosure, Bicep).
+
+---
+
+## 5 Great Places to Find Audio Samples
+
+**URL:** https://www.signpostaudio.com/post/5-great-places-to-find-audio-samples-for-music-production
+
+> **Quick answer:** Five trusted sample sources: **Splice** (subscription, massive library), **Loopmasters** (specialist genre packs), **Sample Magic** (high-quality genre-specific), **Cymatics** (free + paid EDM-focused), **Freesound** (community-uploaded free).
+
+---
+
+## Exploring the World of Ableton Live: 10 Famous Artists Who Use It
+
+**URL:** https://www.signpostaudio.com/post/exploring-the-world-of-ableton-live-10-famous-artists-who-use-this-powerful-software
+
+> **Quick answer:** Famous Ableton Live producers/artists include Skrillex, Deadmau5, Diplo, Flying Lotus, Bonobo, Caribou, Four Tet, Disclosure, Floating Points, KSHMR — among many others. Ableton's session view dominates electronic music production for its non-linear arrangement workflow.
+
+---
+
+## Top 5 Most Sampled Songs
+
+**URL:** https://www.signpostaudio.com/post/what-are-the-top-5-most-sampled-songs
+
+> **Quick answer:** "Amen, Brother" by The Winstons (>2,000 uses), "Funky Drummer" by James Brown, "Think (About It)" by Lyn Collins, "I'm Good" by Apollo Brown, "When the Levee Breaks" by Led Zeppelin — foundational breaks that underpin huge swaths of hip-hop, drum & bass, and electronic music.
+
+---
+
+## Breaking Down the Challenges of Music Production
+
+**URL:** https://www.signpostaudio.com/post/breaking-down-the-challenges-of-music-production-and-how-to-overcome-them
+
+> **Quick answer:** Common challenges: decision paralysis, finishing tracks, mix translation, plugin overwhelm, time management, isolation. Fixes: templates, deadlines, reference tracks, plugin restriction, accountability partners.
+
+---
+
+## Contact
+
+**General enquiries:** https://www.signpostaudio.com/contact
+**Book a session:** https://www.signpostaudio.com/book
+**Send a project:** https://www.signpostaudio.com/membership/send-projects
+
+**Location:** Melbourne, Australia (remote sessions available worldwide)
+
+---
+
+*Markdown mirror generated 2026-05-08. Last full sync of this document occurs on the same date as the sitemap.xml lastmod. Updated as new posts publish.*
